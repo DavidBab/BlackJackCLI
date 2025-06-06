@@ -9,18 +9,18 @@ Clean and readable ASCII art representation of cards. Interactive text-based UI.
 
 ## 🧠 Rules
 
-You start with two cards.
-The goal is to get as close to 21 without going over.
-Aces are worth 1, cards like J, K, Q are worth 10.
-Player chooses to Hit or Stand.
-Dealer draws until reaching more than you have or draws with you.
+You start with two cards.  
+The goal is to get as close to 21 without going over.  
+Aces are worth 1, cards like J, K, Q are worth 10.  
+Player chooses to Hit or Stand.  
+Dealer draws until reaching more than you have or draws with you.  
 
 ## 🚀 Getting Started
 
-Requirements
-Python 3.x
-Running the Game
-Clone the repository and run the script:
+Requirements  
+Python 3.x  
+Running the Game  
+Clone the repository and run the script:  
 
 ```
 git clone https://github.com/DavidBab/BlackJackCLI.git
@@ -30,10 +30,10 @@ python blackjack.py
 
 ## 🔧 Future Improvements
 
-Add betting and chips system.
-Add multiplayer support.
-Improve card art with Unicode.
-Add difficulty levels for dealer AI.
+Add betting and chips system.  
+Add multiplayer support.  
+Improve card art with Unicode.  
+Add difficulty levels for dealer AI.  
 
 ## 🤝 Contributing
 
