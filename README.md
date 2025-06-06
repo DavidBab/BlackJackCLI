@@ -23,7 +23,7 @@ Running the Game
 Clone the repository and run the script:
 
 ```
-git clone https://github.com/yourusername/console-blackjack.git
+git clone [https://github.com/yourusername/console-blackjack.git](https://github.com/DavidBab/BlackJackCLI.git)
 cd console-blackjack
 python blackjack.py
 ```
