@@ -25,7 +25,7 @@ Clone the repository and run the script:
 ```
 git clone https://github.com/DavidBab/BlackJackCLI.git
 cd console-blackjack
-python blackjack.py
+python3 blackjack.py
 ```
 
 ## 🔧 Future Improvements
